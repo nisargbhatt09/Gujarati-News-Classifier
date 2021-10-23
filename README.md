@@ -1,0 +1,2 @@
+# Gujarati-News-Classifier
+સમાચાર
